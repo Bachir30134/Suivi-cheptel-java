@@ -1,0 +1,8 @@
+# Ne jamais envoyer ce fichier : il contient le vrai mot de passe MySQL
+config.properties
+
+# Fichiers Java compilés
+*.class
+
+# Le driver MySQL (trop gros, à retélécharger si besoin)
+/lib/
